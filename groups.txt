@@ -1,0 +1,3 @@
+# add you group name here without #
+# example: https://t.me/old2000000 just add the name after /
+#old2000000
